@@ -38,14 +38,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
+        {/*<hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
         <footer>
-          <Bio />
-        </footer>
+        </footer>*/}
       </article>
 
       <nav>

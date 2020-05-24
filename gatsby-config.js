@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hoaman`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Arjun Kava`,
+      summary: `Founder of Hoaman and Co-founder of Zujo.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog for updates related to hoaman.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `arjun_kava`,
+      linkedin: `arjunkava`
     },
   },
   plugins: [
