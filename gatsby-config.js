@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/reponame",
+  pathPrefix: "/hoaman.github.io",
   siteMetadata: {
     title: `Hoaman`,
     author: {
