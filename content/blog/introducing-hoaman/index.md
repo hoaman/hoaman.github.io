@@ -25,7 +25,7 @@ We are taking steps ahead to grow as such kind of organisation. Our goal is to c
 
 ----- 
 
-Written by Arjun Kava, Founder of Hoaman. [LinkedIn](https://www.linkedin.com/in/arjun-kava/), [Twitter](https://twitter.com/Arjun_Kava)
+Written by Arjun Kava, [LinkedIn](https://www.linkedin.com/in/arjun-kava/), [Twitter](https://twitter.com/Arjun_Kava)
 
 
 

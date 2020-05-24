@@ -7,7 +7,7 @@ module.exports = {
       summary: `Founder of Hoaman and Co-founder of Zujo.`,
     },
     description: `A blog for updates related to hoaman.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://hoaman.github.io/`,
     social: {
       twitter: `arjun_kava`,
       linkedin: `arjunkava`
@@ -62,13 +62,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Hoaman - Reinventing technology`,
+        short_name: `Hoamna`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
